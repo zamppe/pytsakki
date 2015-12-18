@@ -1,0 +1,2 @@
+python pytsakki.py
+pause
